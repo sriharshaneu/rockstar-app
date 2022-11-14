@@ -1,0 +1,52 @@
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/appsettings.Development.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/appsettings.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2.staticwebassets.runtime.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2.deps.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2.runtimeconfig.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2.dll
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/bin/Debug/net6.0/Assignment2.pdb
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.csproj.AssemblyReference.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfoInputs.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfo.cs
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.MvcApplicationPartsAssemblyInfo.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.RazorAssemblyInfo.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.RazorAssemblyInfo.cs
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/scopedcss/bundle/Assignment2.styles.css
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/scopedcss/projectbundle/Assignment2.bundle.scp.css
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.dll
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/refint/Assignment2.dll
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.pdb
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/Assignment2.genruntimeconfig.cache
+/Users/sriha/Desktop/DevOps/Assignments/Lecture 2/Assignment2/obj/Debug/net6.0/ref/Assignment2.dll
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/appsettings.Development.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/appsettings.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2.staticwebassets.runtime.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2.deps.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2.runtimeconfig.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2.dll
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/bin/Debug/net6.0/Assignment2.pdb
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.csproj.AssemblyReference.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfoInputs.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.AssemblyInfo.cs
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.MvcApplicationPartsAssemblyInfo.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.RazorAssemblyInfo.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.RazorAssemblyInfo.cs
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/staticwebassets.build.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/staticwebassets.development.json
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/scopedcss/bundle/Assignment2.styles.css
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/scopedcss/projectbundle/Assignment2.bundle.scp.css
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.dll
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/refint/Assignment2.dll
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.pdb
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/Assignment2.genruntimeconfig.cache
+/Users/sriha/Downloads/Assignmnet 2 folder/Assignment2/obj/Debug/net6.0/ref/Assignment2.dll
